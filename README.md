@@ -1,0 +1,1 @@
+# hipotese_de_Collatz
